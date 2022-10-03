@@ -22,7 +22,9 @@ Ejercicio 5
 ![image](https://user-images.githubusercontent.com/1202553/193636186-087cf7f7-f5af-48f3-afe1-21aea99fc867.png)
 
 Ejercicio 6
+
 ![image](https://user-images.githubusercontent.com/1202553/193636417-552e7541-0418-49e5-a868-b3528b1ced9a.png)
 
 Ejercicio 7
+
 ![image](https://user-images.githubusercontent.com/1202553/193636523-f8d43141-15c1-46de-bf5f-9c5cf1329dca.png)
