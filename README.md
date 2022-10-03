@@ -32,3 +32,6 @@ Ejercicio 8
 
 ![image](https://user-images.githubusercontent.com/1202553/193642698-c3ebb205-3a59-4a91-af20-c947efae2508.png)
 
+Ejercicio 9
+
+![image](https://user-images.githubusercontent.com/1202553/193644080-4a1b0738-d623-48fc-b178-e6ce9c037dee.png)
