@@ -35,3 +35,8 @@ Ejercicio 8
 Ejercicio 9
 
 ![image](https://user-images.githubusercontent.com/1202553/193644080-4a1b0738-d623-48fc-b178-e6ce9c037dee.png)
+
+Ejercicio 10
+
+![image](https://user-images.githubusercontent.com/1202553/193645102-99006c0e-d34c-4e81-b2ca-fcf98e167cbc.png)
+
