@@ -8,7 +8,6 @@ Ejercicio 2
 
 ![image](https://user-images.githubusercontent.com/1202553/193636084-79837394-6f1a-4d17-9cb6-01ecee4e15a1.png)
 
-
 Ejercicio 3
 
 ![image](https://user-images.githubusercontent.com/1202553/193635633-7734f8bb-6e2c-4448-a771-b4bd633d3ca6.png)
@@ -28,3 +27,7 @@ Ejercicio 6
 Ejercicio 7
 
 ![image](https://user-images.githubusercontent.com/1202553/193636523-f8d43141-15c1-46de-bf5f-9c5cf1329dca.png)
+
+Ejercicio 8
+
+![image](https://user-images.githubusercontent.com/1202553/193642326-4af601cd-4201-494a-9d34-5a14f1c0f924.png)
