@@ -1,4 +1,22 @@
 # SintacticoEjerciciosJFLAP
+Los analizadores sintácticos LR, también conocidos como Parser LR, son un tipo de dispositivos para manipular algunas gramáticas libres de contexto. Pertenece a la familia de los analizadores ascendentes, ya que constituyen el árbol sintáctico de las hojas hacia la raíz.
+
+El análisis LR es atractivo por varias razones.
+• Pueden reconocer la inmensa mayoría de los lenguajes de programación que puedan ser
+generados mediante gramáticas de contexto-libre.
+• El método de funcionamiento de estos analizadores posee la ventaja de localizar un error
+sintáctico en el mismo instante que se produce con lo que se adquiere una gran eficiencia
+de tiempo de compilación frente a procedimientos menos adecuados como puedan ser los
+de retroceso.
+
+El principal inconveniente del método es que supone demasiado trabajo construir un
+analizador sintáctico LR a mano para una gramática de un lenguaje de programación típico. Se
+necesita una herramienta especializada - un generador de analizadores sintácticos LR - . Por
+fortuna, existen disponibles varios de estos generadores.
+
+![image](https://user-images.githubusercontent.com/1202553/197797470-03b772ef-5ee3-4fe9-9b84-16c7ac18bf5a.png)
+
+
 
 Ejercicio 1
 
