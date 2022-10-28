@@ -58,3 +58,5 @@ Ejercicio 10
 
 ![image](https://user-images.githubusercontent.com/1202553/193645102-99006c0e-d34c-4e81-b2ca-fcf98e167cbc.png)
 
+Ejercicio 12
+![Captura de pantalla (54)](https://user-images.githubusercontent.com/1202553/198618884-d4699c7a-9cf8-4845-bcec-fdb6ee9fbe24.png)
